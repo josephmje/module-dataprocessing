@@ -6,7 +6,7 @@
 kind: "lesson"
 
 # Overall title for pages.
-title: "ReproNim module for dataprocessing"
+title: "ReproNim Data Processing Module"
 
 # Repository URL (without trailing slash).
 repo: https://github.com/ReproNim/module-dataprocessing
